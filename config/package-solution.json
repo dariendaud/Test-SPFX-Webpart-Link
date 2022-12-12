@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "CT Sample Webpart Link",
+    "id": "4d6524d3-ce29-4060-ae1d-29b054cbbff9",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "SampleWebpartLink description"
+      },
+      "longDescription": {
+        "default": "SampleWebpartLink description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "sample-webpart-link Feature",
+        "description": "The feature that activates elements of the sample-webpart-link solution.",
+        "id": "4559b6e5-b532-4ecf-b837-52ffca0461f0",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/sample-webpart-link.sppkg"
+  }
+}

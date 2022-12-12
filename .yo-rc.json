@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "14.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.0",
+    "libraryName": "sample-webpart-link",
+    "libraryId": "4d6524d3-ce29-4060-ae1d-29b054cbbff9",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SampleWebpartLink",
+    "solutionShortDescription": "SampleWebpartLink description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
